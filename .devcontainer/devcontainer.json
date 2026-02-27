@@ -1,0 +1,10 @@
+{
+  "forwardPorts": [3000],
+  "portsAttributes": {
+    "3000": {
+      "label": "Love Page",
+      "onAutoForward": "notify",
+      "visibility": "public"
+    }
+  }
+}
