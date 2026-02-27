@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[39756,["/openclaw/docs/love-v2/_next/static/chunks/2f236954d6a65e12.js"],"default"]
 3:I[37457,["/openclaw/docs/love-v2/_next/static/chunks/2f236954d6a65e12.js"],"default"]
-0:{"buildId":"OfniEfw3xs100pgB4Li6d","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"PdJS0auhNPgbl_3V1rIXr","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
