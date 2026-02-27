@@ -1,2 +1,2 @@
-:HL["/openclaw/docs/love-v2/_next/static/chunks/edd68d08e722301f.css","style"]
-0:{"buildId":"PdJS0auhNPgbl_3V1rIXr","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/openclaw/docs/love-v2/_next/static/chunks/862b90630ebf5929.css","style"]
+0:{"buildId":"XMPd6Sicqw5OCf0K0XhgN","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
